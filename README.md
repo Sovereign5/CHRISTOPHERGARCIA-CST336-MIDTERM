@@ -1,16 +1,16 @@
 # CHRISTOPHERGARCIA-CST336-MIDTERM
 Question #1.a
-1. Inline CSS
-2. Internal CSS
-3. External CSS
+1. Inline CSS (highest precedence)
+2. Internal CSS (medium precedence)
+3. External CSS (low precedence)
 
 Question #1.b
-A margin is the amount of room at the border of a DOM.
-Padding is the amount of room between the margins of DOMs.
+Margin is the space around the border in it's entirety. The last layer.
+Padding is the space before the border and after the element. 
 
 Question #2.a
-!= is the statement 'is not'
-!== is the statement 'is not equal to'
+!= is the statement 'is not equal'
+!== is the statement 'is not the same value to'
 
 Question #2.b
 "undefinedeval"
